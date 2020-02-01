@@ -1,6 +1,6 @@
 # Bugz Issues
 
-# [![logo](https://github.com/flyingblackhat/BugzIssues/blob/master/bugz%20icon%20256.png)<br/>Bugz](https://www.flyingblackhat.com/bugz)
+# [![logo](https://github.com/flyingblackhat/BugzIssues/blob/master/bugz%20icon%20256.png?v=3&s=200)<br/>Bugz](https://www.flyingblackhat.com/bugz)
 
 ### Easy bugtracking for Mac
 
